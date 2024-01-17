@@ -15,7 +15,7 @@ O teste consiste em 3 partes:
 
 Todos os artefatos e entregáveis produzidos deverão ser organizados em um repositório público no Github vinculado a sua conta pessoal.
 
-O prazo para entrega do teste é de 7 dias corridos a partir da data de envio do mesmo por e-mail.
+O prazo para entrega do teste é de 7 dias corridos a partir da data de envio do mesmo por e-mail ou de acordo com o informado diretamente.
 
 ### Parte 1- Configuração de servidor FHIR (Arquitetura)
 Primeiramente você deve preparar um servidor FHIR necessariamente no seu ambiente local (sem usar soluções _cloud_). Sugerimos que você utilize containers Docker devidamente configurados a partir de um arquivo Docker Composer. O servidor FHIR deve ser uma solução _Open Source_, como o [HAPI FHIR](https://hapifhir.io/) ou similar.
