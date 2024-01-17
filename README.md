@@ -45,4 +45,4 @@ O entregável dessa parte são todos os artefatos produzidos para a carga dos da
 ### Parte 3 - Apresentação Técnica (Reunião online)
 A última parte do teste é uma reunião online de até 30 minutos onde você deve apresentar a solução desenvolvida. Nessa reunião, você deve explicar o processo de configuração do servidor FHIR, a carga dos dados e esclarecer possíveis dúvidas.
 
-Ao final do prazo de entrega do teste, envie o link do respositório com todos os entregáveis para o e-mail [debora.carvalho@munai.com.br](mailto:bruna.brida@munai.com.br). Após o recebimento entraremos em contato para agendar a apresentação.
+Ao final do prazo de entrega do teste, envie o link do respositório com todos os entregáveis para o e-mail [bruna.brida@munai.com.br](mailto:bruna.brida@munai.com.br). Após o recebimento entraremos em contato para agendar a apresentação.
